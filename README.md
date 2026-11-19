@@ -13,7 +13,8 @@ A subscription-based company is losing customers and wants to:
 2. **Identify at-risk customers** before they cancel
 3. Define **targeted retention actions**
 
-## 🔑 Key Findings
+## 🔑 Key Findings & Visuals
+
 
 | # | Finding | Evidence |
 |---|---------|----------|
@@ -22,6 +23,11 @@ A subscription-based company is losing customers and wants to:
 | 3 | **Churners call customer service more** | 2.2 vs 1.4 calls on average |
 | 4 | **Churners pay higher monthly bills** | $59.2 vs $55.8 on average |
 | 5 | **Tenure does not explain churn** | Average account age is nearly identical (~101 vs ~103 weeks) |
+
+_ _ _
+
+<img width="1560" height="1040" alt="00_churn_dashboard" src="https://github.com/user-attachments/assets/ec0b2662-cacc-4b8c-8ed1-7d913b3c9772" />
+
 
 ## 🤖 Model Performance (Baseline: Logistic Regression)
 
