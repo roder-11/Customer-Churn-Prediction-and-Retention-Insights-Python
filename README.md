@@ -70,7 +70,4 @@ A subscription-based company is losing customers and wants to:
 
 ## 👤 Author
 
-<p align="center">
   Made by <b>Rodrigue Awono</b> · Business Intelligence & Data Analyst → Data Engineering 🔗  [LinkedIn] https://www.linkedin.com/ [GitHub](#)
-</p> 
-
