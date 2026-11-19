@@ -50,8 +50,6 @@ A subscription-based company is losing customers and wants to:
 5. **Evaluation & reporting**: accuracy, precision, recall, F1 + business interpretation
 
 
-```
-
 ## 📊 Dataset
 
 3,333 customers, 11 features + target (`Churn`: 1 = left, 0 = stayed).
@@ -69,16 +67,6 @@ A subscription-based company is losing customers and wants to:
 | `OverageFee` | Overage fees |
 | `RoamMins` | Roaming minutes |
 
-```
-
-## 🗺️ Roadmap
-
-- [ ] Handle class imbalance (`class_weight='balanced'`)
-- [ ] Tune the decision threshold to prioritize recall
-- [ ] Compare Random Forest and Gradient Boosting
-- [ ] Add ROC-AUC and precision-recall curves
-- [ ] Add feature importance and a customer risk-scoring table
-- [ ] Build a Power BI dashboard of churn drivers
 
 ## 👤 Author
 
